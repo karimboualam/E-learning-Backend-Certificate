@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Utilise LF pour tous les fichiers
+* text=auto
+*.sh eol=lf
+*.cmd eol=crlf
